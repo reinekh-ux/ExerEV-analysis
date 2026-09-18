@@ -1,0 +1,22 @@
+# Data & results (not tracked in this repo)
+*.csv
+*.tsv
+*.txt
+!requirements.txt
+
+# Figures / images
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.svg
+
+# R artifacts
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# OS/editor cruft
+.DS_Store
+*.swp
